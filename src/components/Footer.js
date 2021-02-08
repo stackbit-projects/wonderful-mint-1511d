@@ -16,7 +16,7 @@ export default function Footer() {
         })}
       </ul>
       <p className="copyright">
-        @Umer Khan <a href="http://html5up.net">HTML5 UP</a>
+        @Umer Khan <a href="#">HTML5 UP</a>
       </p>
     </footer>
   );
