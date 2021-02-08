@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-fractal/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
+  heading: 'Umer Khan',
   subHeading: 'Full Stack Web Developer',
   // social
   socialLinks: [
