@@ -39,7 +39,7 @@ const IndexPage = () => (
       </div>
       <div className="image phone">
         <div className="inner">
-          <img src={ alt="" />
+          <img src={} alt="" />
         </div>
       </div>
     </header>
