@@ -6,7 +6,7 @@ import Scroll from '../components/Scroll';
 import config from '../../config';
 import Footer from '../components/Footer';
 import screen from '../assets/images/screen.png';
-import screen from '../assets/images/umer.png';
+import umer from '../assets/images/umer.png';
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
