@@ -16,7 +16,7 @@ export default function Footer() {
         })}
       </ul>
       <p className="copyright">
-        &copy; . Credits: <a href="http://html5up.net">HTML5 UP</a>
+        &copy; Umer Khan. Credits: <a href="http://html5up.net">HTML5 UP</a>
       </p>
     </footer>
   );
