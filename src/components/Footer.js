@@ -16,7 +16,7 @@ export default function Footer() {
         })}
       </ul>
       <p className="copyright">
-        @Umer Khan <a href="#">HTML5 UP</a>
+        @Umer Khan <a href="#">2021</a>
       </p>
     </footer>
   );
