@@ -40,7 +40,7 @@ const IndexPage = () => (
       </div>
       <div className="image phone">
         <div className="inner">
-          <img src={umerpng} alt="" />
+          <img src={umer} alt="" />
         </div>
       </div>
     </header>
